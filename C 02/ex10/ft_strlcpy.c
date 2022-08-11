@@ -6,13 +6,13 @@
 /*   By: aqueiroz <aqueiroz@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/11 19:53:26 by aqueiroz          #+#    #+#             */
-/*   Updated: 2022/08/11 20:15:13 by aqueiroz         ###   ########.fr       */
+/*   Updated: 2022/08/11 20:16:10 by aqueiroz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size)
 {
-	int	i;
+	unsigned int	i;
 
 	i = 0;
 	if (size == 0)
