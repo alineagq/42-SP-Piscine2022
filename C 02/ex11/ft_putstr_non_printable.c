@@ -6,9 +6,11 @@
 /*   By: aqueiroz <aqueiroz@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/11 20:20:26 by aqueiroz          #+#    #+#             */
-/*   Updated: 2022/08/13 03:15:16 by aqueiroz         ###   ########.fr       */
+/*   Updated: 2022/08/13 03:46:06 by aqueiroz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <unistd.h>
 
 #define HEX "0123456789abcdef"
 
